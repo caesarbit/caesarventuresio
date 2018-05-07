@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "CaesarVenturesIO",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 56,
@@ -9,9 +9,9 @@
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
-        "primaryColor": "#149dcc",
+        "primaryColor": "#0f7699",
         "secondaryColor": "#ff3366",
-        "successColor": "#F7ED4A",
+        "successColor": "#f7ed4a",
         "infoColor": "#82786E",
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
@@ -31,7 +31,9 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": []
-    }
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/fish-6-orange-128x128-1.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
